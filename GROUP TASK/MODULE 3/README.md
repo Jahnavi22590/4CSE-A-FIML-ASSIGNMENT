@@ -7,6 +7,9 @@
 * The system unintentionally discriminated against women applicants.
 * This case highlights the importance of ethics in Artificial Intelligence.
 
+![Screenshot_22-2-2026_153225_www bing com](https://github.com/user-attachments/assets/f51f1f52-dc11-4405-88d5-b99d733224c8)
+  
+
 ## 2. Background of the Case:
 * Cyways developed an AI-based resume screening tool around 2014.
 * The goal was to automatically rank job applicants.
