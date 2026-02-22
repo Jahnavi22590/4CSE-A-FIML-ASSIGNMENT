@@ -2,7 +2,8 @@
 In Machine Learning, **Bias** and **Variance** are two types of errors that affect model performance.
 To get the **best fit model**, we need:
 
->  **Low Bias and Low Variance**
+ **Low Bias and Low Variance**
+ 
 ![Screenshot_22-2-2026_15363_www bing com](https://github.com/user-attachments/assets/066a3d81-d12d-4bb1-8f03-0cf56fc04c88)
 
 
