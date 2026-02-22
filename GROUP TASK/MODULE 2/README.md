@@ -8,12 +8,16 @@
   * Variety
   * Veracity
   * Value
+![Screenshot_22-2-2026_152757_www bing com](https://github.com/user-attachments/assets/f83cf2e5-faa7-4378-ad8f-5e482badbdf2)
+   
 * Organizations use Big Data to make better decisions.
 * Real-world systems like Google Maps, Amazon, and Smart Cities depend on Big Data.
 * This task explains the complete data flow of a real-world Big Data system.
 
 # 2. Selected Real-World System:
 ## Example: Smart City Traffic Management System:
+![Screenshot_22-2-2026_152933_www bing com](https://github.com/user-attachments/assets/ec58be21-45b3-4218-a6f6-d03fbd4e5acd)
+
 * A Smart City system collects traffic data in real time.
 * It helps reduce congestion and accidents.
 * It improves traffic signal timing.
