@@ -18,6 +18,8 @@ No relationship between variables.
 
 ## Example:
 ## Case 1:
+![Screenshot_22-2-2026_15814_chatgpt com](https://github.com/user-attachments/assets/82c1b593-ccde-4313-8282-acd36d9ae355)
+
 | Student | Study Hours (X) | Exam Score (Y) |
 | ------- | --------------- | -------------- |
 | A       | 2               | 40             |
@@ -34,6 +36,9 @@ $$
 
     
 ## Case 2:
+![Screenshot_22-2-2026_151247_chatgpt com](https://github.com/user-attachments/assets/4f547729-1838-4e45-917e-888059cca8b4)
+
+
 | Person | Screen Time (hrs) (X) | Productivity Score (Y) |
 | ------ | --------------------- | ---------------------- |
 | A      | 2                     | 90                     |
@@ -77,6 +82,9 @@ $$
 
 
 ## Graphical Representation
+![Screenshot_22-2-2026_15167_www bing com](https://github.com/user-attachments/assets/4b1b20b1-ef2d-4925-96d1-9540dff9018a)
+
+
 1. Use scatter diagram.
 2. If points move upward → Positive correlation.
 3. If points move downward → Negative correlation.
