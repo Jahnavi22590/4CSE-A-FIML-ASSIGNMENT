@@ -1,4 +1,5 @@
 ## Domain: **Online Food Delivery Platform** (like Zomato or Swiggy)
+![Screenshot_22-2-2026_154232_www bing com](https://github.com/user-attachments/assets/0e5d55b2-836c-4f32-b919-0edd0c28f8a5)
 
 
 # 1️. Business Understanding (CRISP-DM – Phase 1)
