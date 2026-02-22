@@ -1,3 +1,5 @@
+## Correlation Exploration
+## Daily Life Case Study: Hours vs Scores & Screen Time vs Productivity
 ## Introduction
 Correlation measures the relationship between two variables. 
 It tells us whether variables move together.
@@ -14,18 +16,47 @@ Example: Screen time ↑ → Productivity ↓
 - Zero Correlation (r ≈ 0)
 No relationship between variables.
 
-## Example
-| Study Hours | Marks |
-| ----------- | ----- |
-| 1           | 40    |
-| 2           | 50    |
-| 3           | 60    |
-| 4           | 70    |
-| 5           | 80    |
+## Example:
+## Case 1:
+| Student | Study Hours (X) | Exam Score (Y) |
+| ------- | --------------- | -------------- |
+| A       | 2               | 40             |
+| B       | 3               | 50             |
+| C       | 4               | 60             |
+| D       | 5               | 70             |
+| E       | 6               | 80             |
 
-## Formula 
-$r = \frac{n\sum XY - (\sum X)(\sum Y)}
-{\sqrt{[n\sum X^2 - (\sum X)^2][n\sum Y^2 - (\sum Y)^2]}}$
+## Karl Pearson’s Correlation Coefficient:
+$$
+r = \frac{n\sum XY - (\sum X)(\sum Y)}
+{\sqrt{[n\sum X^2 - (\sum X)^2][n\sum Y^2 - (\sum Y)^2]}}
+$$
+
+    
+## Case 2:
+| Person | Screen Time (hrs) (X) | Productivity Score (Y) |
+| ------ | --------------------- | ---------------------- |
+| A      | 2                     | 90                     |
+| B      | 3                     | 80                     |
+| C      | 4                     | 70                     |
+| D      | 5                     | 60                     |
+| E      | 6                     | 50                     |
+
+## Pearson’s Correlation (Deviation Method):
+$$
+x = X - \bar{X}
+$$
+
+$$
+y = Y - \bar{Y}
+$$
+
+$$
+r = \frac{\sum (X - \bar{X})(Y - \bar{Y})}
+{\sqrt{\sum (X - \bar{X})^2 \sum (Y - \bar{Y})^2}}
+$$
+
+
 
 ## Steps to Calculate Correlation:
 - Collect paired data (X and Y).
