@@ -9,8 +9,8 @@ A **Normal Distribution** (also called Gaussian Distribution) is a continuous pr
 * 3. Mean = Median = Mode
 * 4. Defined by two parameters:
 
-  * **Mean (μ)** → Center of distribution
-  * **Standard Deviation (σ)** → Spread of data
+1. Mean (μ) → Center of distribution
+2. Standard Deviation (σ)→ Spread of data
 
 The total area under the curve = **1 (or 100%)**
 
