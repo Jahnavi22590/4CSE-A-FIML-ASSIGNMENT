@@ -2,6 +2,8 @@
 ## Introduction
 In today’s digital age, mobile applications and online services collect, store, and process vast amounts of personal data. Privacy policies play a crucial role in informing users about how their information is gathered, used, shared, and protected. Analyzing a popular app’s privacy policy helps us understand not only its data collection practices but also the ethical considerations and data governance principles it follows. This analysis aims to examine the selected app’s privacy policy to identify how it handles user data, ensures transparency, maintains security, and complies with legal standards. By evaluating these aspects, we can better understand whether the app respects user privacy, promotes responsible data management, and upholds ethical standards in the digital environment.
 
+![Screenshot_22-2-2026_145710_www bing com](https://github.com/user-attachments/assets/1e88069a-fe55-4125-acbf-75d567d65793)
+
 ## Categories of Data Collected:
 - WhatsApp’s policy outlines collection of:
 1. Account Information – phone number, profile name, profile photo
@@ -41,6 +43,9 @@ Governance Implications:
 1. Encryption ≠ Full Privacy: Metadata remains accessible to the company.
 2. Expectation Gap: Users often equate encryption with total invisibility.
 3. Transparency Duty: Companies should clearly explain limits of encryption protection.
+
+![Screenshot_22-2-2026_145821_www bing com](https://github.com/user-attachments/assets/b245c4c6-e0cc-4de4-ac8f-f9a686ddad2e)
+
 
 ## Data Retention & Storage:
 - Policies often state that data is retained:
