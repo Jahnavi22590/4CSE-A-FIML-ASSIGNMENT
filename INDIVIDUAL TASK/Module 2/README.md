@@ -1,3 +1,4 @@
+## Privacy Policy Analysis – WhatsApp
 ## Introduction
 In today’s digital age, mobile applications and online services collect, store, and process vast amounts of personal data. Privacy policies play a crucial role in informing users about how their information is gathered, used, shared, and protected. Analyzing a popular app’s privacy policy helps us understand not only its data collection practices but also the ethical considerations and data governance principles it follows. This analysis aims to examine the selected app’s privacy policy to identify how it handles user data, ensures transparency, maintains security, and complies with legal standards. By evaluating these aspects, we can better understand whether the app respects user privacy, promotes responsible data management, and upholds ethical standards in the digital environment.
 
