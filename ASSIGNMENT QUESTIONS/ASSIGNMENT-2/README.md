@@ -1,6 +1,8 @@
 ##  Domain: **Student IQ Scores in a University**
 
 #  1. Normal Distribution 
+![Screenshot_22-2-2026_154016_www bing com](https://github.com/user-attachments/assets/23866a4b-406a-4566-9f73-fb37835dc561)
+
 
 A **Normal Distribution** (also called Gaussian Distribution) is a continuous probability distribution that is:
 
