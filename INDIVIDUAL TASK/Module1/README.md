@@ -4,9 +4,17 @@
 Artificial Intelligence (AI) is a branch of computer science concerned with designing machines and systems that can perform tasks requiring human intelligence. These tasks include learning from experience, reasoning, problem-solving, perception, language understanding, and decision-making. AI combines concepts from mathematics, computer science, psychology, neuroscience, and engineering.
 The idea of intelligent machines existed long before computers, but practical AI research began in the mid-20th century. Over time, AI has evolved from simple rule-based programs to powerful deep learning systems such as ChatGPT. The development of AI can be understood through several major milestones described below.
 
+
+![Screenshot_22-2-2026_143720_www bing com](https://github.com/user-attachments/assets/fed7e011-bcb4-4447-a250-f4ee1c019672)
+
+
+
 1. Early Foundations (1940s–1950s):
 The foundation of AI lies in early research on logic, computation, and neural networks.
 - 1943 – Warren McCulloch and Walter Pitts developed a mathematical model of artificial neurons. Their work showed that neurons could be represented using logical functions. This became the basis for artificial neural networks.
+
+## ALAN TURING ##
+![Screenshot_22-2-2026_144140_www bing com](https://github.com/user-attachments/assets/9dcc3404-3454-4a09-9f57-a1d5bbf65b76)
 
 - 1950 – Alan Turing published the paper Computing Machinery and Intelligence. He asked the famous question: “Can machines think?” He proposed the Turing Test, where a machine is considered intelligent if it can imitate human conversation well enough to fool a human judge. These early theories established that machines could potentially simulate human reasoning and learning.
 
@@ -34,6 +42,8 @@ Although these systems were limited, they showed that machines could perform spe
 - AI Winter:
 During the 1970s, AI research faced criticism. Funding agencies reduced support because AI systems failed to meet high expectations.This period is known as the AI Winter.
 
+![Screenshot_22-2-2026_144847_www bing com](https://github.com/user-attachments/assets/a453a4f8-bfce-4650-9fdc-733e0fa3cf1d)
+
 ## Expert Systems:
 - In the 1980s, AI regained popularity with expert systems. These systems used knowledge from human experts.
 Example: MYCIN (used for medical diagnosis). 
@@ -60,6 +70,9 @@ This period transformed AI into a practical and highly effective technology.
 - 2020 – GPT-3 was released by OpenAI. It showed remarkable ability in text generation.
 
 - 2022 – Launch of ChatGPT. Made AI accessible to millions of users. Used for writing, coding, learning, and research.
+
+![Screenshot_22-2-2026_14537_www bing com](https://github.com/user-attachments/assets/a9d2120f-9f72-440f-a441-e2072e960837)
+
 
 ## Modern AI systems can:
  1. Generate text, images, music, and videos
